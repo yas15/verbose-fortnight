@@ -8,5 +8,7 @@ Here is some information about the project
 
 this is just some text
 
+updated readme
+
 
 
